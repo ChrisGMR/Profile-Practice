@@ -9,7 +9,6 @@ body
     background-color: rgb(251,248,241);
     height: 100%;
     text-align: center;
-    border: 10px solid rgb(84,186,185);
     font-family: Roboto;
     
 }
@@ -30,6 +29,7 @@ body
     align-items:inherit;
     padding: 50px;
     height: 100%;
+    border: 10px solid rgb(84,186,185);
     
 }
 #btn{
