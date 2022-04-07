@@ -7,7 +7,7 @@
 body
 {
     background-color: rgb(251,248,241);
-    height: 100%;
+    height: 100vh;
     text-align: center;
     font-family: Roboto;
     
@@ -60,6 +60,9 @@ body
 #column3{
     /* flex: 2; */
     width: 250px;
+}
+#p{
+    text-align: justify;
 }
 
 
